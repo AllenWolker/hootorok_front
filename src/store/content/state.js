@@ -1,0 +1,15 @@
+export default {
+  faq: [],
+  news: [],
+  newsTotal: 0,
+  oneNews: null,
+  pages: {},
+  services: [],
+  categories: [],
+  categoriesTotal: 0,
+  servicesTotal: 0,
+  feedbacks: [],
+  feedbacksTotal: 0,
+  infoPages: [],
+  infoPagesTotal: 0,
+};
